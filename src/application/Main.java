@@ -31,7 +31,7 @@ public class Main {
             }
         }
         if (args[0].equals("-v") || args[0].equals("--version")) {
-            System.out.println("ajeitaai version 0.0.1");
+            System.out.println("ajeitaai version 0.0.2");
         }
 
     }
